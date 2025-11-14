@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efd08644-f9a0-41ff-af10-7e9436c5224c" name="Changes" comment="mate + roquer">
+    <list default="true" id="efd08644-f9a0-41ff-af10-7e9436c5224c" name="Changes" comment="AI 0-3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762937908247</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="AI 0-3">
+      <option name="closed" value="true" />
+      <created>1763089442233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763089442233</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +125,7 @@
     <MESSAGE value="chess" />
     <MESSAGE value="working on mate" />
     <MESSAGE value="mate + roquer" />
-    <option name="LAST_COMMIT_MESSAGE" value="mate + roquer" />
+    <MESSAGE value="AI 0-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI 0-3" />
   </component>
 </project>
